@@ -3,7 +3,7 @@
 ## Acerca de
 Plantilla de prueba descargada desde [free-css](https://www.free-css.com/free-css-templates/page235/thempleite), para realizar demostraciones
 
-## Ejecutar el proyecto
+## Modo de ejecución
 
 A continuación se describen algunos metodos de ejecución del proyecto:
 
